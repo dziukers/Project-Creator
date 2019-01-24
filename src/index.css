@@ -16,6 +16,10 @@ form {
   margin:0 auto;
 }
 
+.project-list {
+  max-height: 90vh;
+  overflow-y: auto;
+}
 a, a:link, a:visited {
   color:inherit;
   text-decoration: none;
